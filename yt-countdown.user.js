@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  Adds a countdown timer to YouTube before you can use the page.
 // @author       YourName
-// @match        https://www.youtube.com/*
+// @include          https://youtube.com/*
+// @include          https://*.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
